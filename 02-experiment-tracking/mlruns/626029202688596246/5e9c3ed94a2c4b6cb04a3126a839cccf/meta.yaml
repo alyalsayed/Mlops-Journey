@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlops-Journey/02-experiment-tracking/mlruns/626029202688596246/5e9c3ed94a2c4b6cb04a3126a839cccf/artifacts
+end_time: 1747846117886
+entry_point_name: ''
+experiment_id: '626029202688596246'
+lifecycle_stage: active
+run_id: 5e9c3ed94a2c4b6cb04a3126a839cccf
+run_name: ambitious-tern-581
+run_uuid: 5e9c3ed94a2c4b6cb04a3126a839cccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747846103405
+status: 3
+tags: []
+user_id: codespace

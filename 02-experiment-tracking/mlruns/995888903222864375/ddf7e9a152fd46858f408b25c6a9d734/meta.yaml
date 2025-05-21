@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlops-Journey/02-experiment-tracking/mlruns/995888903222864375/ddf7e9a152fd46858f408b25c6a9d734/artifacts
+end_time: 1747846280788
+entry_point_name: ''
+experiment_id: '995888903222864375'
+lifecycle_stage: active
+run_id: ddf7e9a152fd46858f408b25c6a9d734
+run_name: amusing-doe-316
+run_uuid: ddf7e9a152fd46858f408b25c6a9d734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747846258625
+status: 3
+tags: []
+user_id: codespace

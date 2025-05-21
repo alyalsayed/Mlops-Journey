@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/374678178060311778/0a2e58a3758948ae93e4a42ecd494be0/artifacts
+end_time: 1747850775818
+entry_point_name: ''
+experiment_id: '374678178060311778'
+lifecycle_stage: active
+run_id: 0a2e58a3758948ae93e4a42ecd494be0
+run_name: burly-stag-661
+run_uuid: 0a2e58a3758948ae93e4a42ecd494be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747850767473
+status: 3
+tags: []
+user_id: codespace

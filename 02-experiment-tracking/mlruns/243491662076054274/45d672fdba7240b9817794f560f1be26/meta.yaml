@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/243491662076054274/45d672fdba7240b9817794f560f1be26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '243491662076054274'
+lifecycle_stage: active
+run_id: 45d672fdba7240b9817794f560f1be26
+run_name: inquisitive-crow-875
+run_uuid: 45d672fdba7240b9817794f560f1be26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747857222484
+status: 1
+tags: []
+user_id: codespace
