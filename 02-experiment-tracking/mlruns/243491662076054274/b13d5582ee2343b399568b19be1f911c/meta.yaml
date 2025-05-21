@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/243491662076054274/b13d5582ee2343b399568b19be1f911c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '243491662076054274'
+lifecycle_stage: active
+run_id: b13d5582ee2343b399568b19be1f911c
+run_name: polite-fox-140
+run_uuid: b13d5582ee2343b399568b19be1f911c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747857992250
+status: 1
+tags: []
+user_id: codespace

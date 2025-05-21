@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/243491662076054274/8da01872bf9941079f0c54a09e1ab468/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '243491662076054274'
+lifecycle_stage: active
+run_id: 8da01872bf9941079f0c54a09e1ab468
+run_name: bustling-mare-323
+run_uuid: 8da01872bf9941079f0c54a09e1ab468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747857749097
+status: 1
+tags: []
+user_id: codespace
