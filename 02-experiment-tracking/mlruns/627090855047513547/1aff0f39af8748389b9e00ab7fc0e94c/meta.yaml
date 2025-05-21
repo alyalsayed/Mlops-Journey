@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/1aff0f39af8748389b9e00ab7fc0e94c/artifacts
+end_time: 1747866332637
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 1aff0f39af8748389b9e00ab7fc0e94c
+run_name: redolent-jay-670
+run_uuid: 1aff0f39af8748389b9e00ab7fc0e94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866322672
+status: 3
+tags: []
+user_id: Abdo

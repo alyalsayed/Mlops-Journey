@@ -29,7 +29,16 @@ def train_and_log_model(data_path, params):
     X_test, y_test = load_pickle(os.path.join(data_path, "test.pkl"))
 
     with mlflow.start_run():
-        new_params = {param: int(params[param]) for param in RF_PARAMS}
+        # new_params = {param: int(params[param]) for param in RF_PARAMS}
+        # Force smaller, safer values to avoid OOM
+        new_params = {
+            'max_depth': min(int(params['max_depth']), 10),
+            'n_estimators': min(int(params['n_estimators']), 50),
+            'min_samples_split': int(params['min_samples_split']),
+            'min_samples_leaf': int(params['min_samples_leaf']),
+            'random_state': int(params['random_state']),
+        }
+
         rf = RandomForestRegressor(**new_params)
         rf.fit(X_train, y_train)
 

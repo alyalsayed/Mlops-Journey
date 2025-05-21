@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868258432471198906/bc50f43c13424a3c92ced7172dc78ade/artifacts
+end_time: 1747868005051
+entry_point_name: ''
+experiment_id: '868258432471198906'
+lifecycle_stage: active
+run_id: bc50f43c13424a3c92ced7172dc78ade
+run_name: clumsy-pug-24
+run_uuid: bc50f43c13424a3c92ced7172dc78ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747867955951
+status: 3
+tags: []
+user_id: Abdo

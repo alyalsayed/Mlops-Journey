@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/3a04f3c7fa864b29ac11993835079aa3/artifacts
+end_time: 1747866273647
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 3a04f3c7fa864b29ac11993835079aa3
+run_name: kindly-slug-634
+run_uuid: 3a04f3c7fa864b29ac11993835079aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866260281
+status: 3
+tags: []
+user_id: Abdo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/12c2b2325e8a4b59bd1bb082d06009da/artifacts
+end_time: 1747866247240
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 12c2b2325e8a4b59bd1bb082d06009da
+run_name: stately-smelt-552
+run_uuid: 12c2b2325e8a4b59bd1bb082d06009da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866246222
+status: 3
+tags: []
+user_id: Abdo

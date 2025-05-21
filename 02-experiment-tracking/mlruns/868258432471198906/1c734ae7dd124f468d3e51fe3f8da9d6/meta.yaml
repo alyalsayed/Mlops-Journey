@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868258432471198906/1c734ae7dd124f468d3e51fe3f8da9d6/artifacts
+end_time: 1747867955748
+entry_point_name: ''
+experiment_id: '868258432471198906'
+lifecycle_stage: active
+run_id: 1c734ae7dd124f468d3e51fe3f8da9d6
+run_name: painted-sponge-64
+run_uuid: 1c734ae7dd124f468d3e51fe3f8da9d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747867908091
+status: 3
+tags: []
+user_id: Abdo

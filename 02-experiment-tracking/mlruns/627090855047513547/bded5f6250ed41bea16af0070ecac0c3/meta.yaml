@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/bded5f6250ed41bea16af0070ecac0c3/artifacts
+end_time: 1747866289292
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: bded5f6250ed41bea16af0070ecac0c3
+run_name: colorful-sponge-951
+run_uuid: bded5f6250ed41bea16af0070ecac0c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866273691
+status: 3
+tags: []
+user_id: Abdo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/5313d5caf52344c9b26596d747157b2f/artifacts
+end_time: 1747866256675
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 5313d5caf52344c9b26596d747157b2f
+run_name: welcoming-mule-770
+run_uuid: 5313d5caf52344c9b26596d747157b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866248403
+status: 3
+tags: []
+user_id: Abdo

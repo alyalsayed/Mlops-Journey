@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/2de819414a39470d930b479769d95dcc/artifacts
+end_time: 1747866246162
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 2de819414a39470d930b479769d95dcc
+run_name: luxuriant-worm-568
+run_uuid: 2de819414a39470d930b479769d95dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866234594
+status: 3
+tags: []
+user_id: Abdo

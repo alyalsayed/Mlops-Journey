@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868258432471198906/00c5d863b397458a87705c836aac8b59/artifacts
+end_time: 1747867768315
+entry_point_name: ''
+experiment_id: '868258432471198906'
+lifecycle_stage: active
+run_id: 00c5d863b397458a87705c836aac8b59
+run_name: polite-seal-118
+run_uuid: 00c5d863b397458a87705c836aac8b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747867672735
+status: 3
+tags: []
+user_id: Abdo

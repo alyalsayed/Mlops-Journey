@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868258432471198906/0559b027d2d34e3d809cb8803adb864d/artifacts
+end_time: 1747867850105
+entry_point_name: ''
+experiment_id: '868258432471198906'
+lifecycle_stage: active
+run_id: 0559b027d2d34e3d809cb8803adb864d
+run_name: colorful-donkey-418
+run_uuid: 0559b027d2d34e3d809cb8803adb864d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747867768829
+status: 3
+tags: []
+user_id: Abdo

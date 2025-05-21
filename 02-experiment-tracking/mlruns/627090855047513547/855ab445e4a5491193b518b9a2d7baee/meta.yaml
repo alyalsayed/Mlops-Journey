@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/855ab445e4a5491193b518b9a2d7baee/artifacts
+end_time: 1747866315763
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 855ab445e4a5491193b518b9a2d7baee
+run_name: nebulous-loon-440
+run_uuid: 855ab445e4a5491193b518b9a2d7baee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866311644
+status: 3
+tags: []
+user_id: Abdo

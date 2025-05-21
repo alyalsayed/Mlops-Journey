@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/512bfd0c23cb4d44ace3bcd05822c2d3/artifacts
+end_time: 1747866306032
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 512bfd0c23cb4d44ace3bcd05822c2d3
+run_name: polite-frog-850
+run_uuid: 512bfd0c23cb4d44ace3bcd05822c2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866299199
+status: 3
+tags: []
+user_id: Abdo

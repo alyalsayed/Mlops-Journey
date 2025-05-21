@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/d67ae391be7e4e75a2e58782718532fd/artifacts
+end_time: 1747866290849
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: d67ae391be7e4e75a2e58782718532fd
+run_name: efficient-roo-723
+run_uuid: d67ae391be7e4e75a2e58782718532fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866289331
+status: 3
+tags: []
+user_id: Abdo

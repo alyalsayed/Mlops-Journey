@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/88f668a1328140faa14732357bac9974/artifacts
+end_time: 1747866299161
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: 88f668a1328140faa14732357bac9974
+run_name: trusting-snake-649
+run_uuid: 88f668a1328140faa14732357bac9974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866290909
+status: 3
+tags: []
+user_id: Abdo

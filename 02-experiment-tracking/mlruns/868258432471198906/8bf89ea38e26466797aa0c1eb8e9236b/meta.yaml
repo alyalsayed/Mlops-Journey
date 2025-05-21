@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868258432471198906/8bf89ea38e26466797aa0c1eb8e9236b/artifacts
+end_time: 1747867907873
+entry_point_name: ''
+experiment_id: '868258432471198906'
+lifecycle_stage: active
+run_id: 8bf89ea38e26466797aa0c1eb8e9236b
+run_name: delightful-eel-300
+run_uuid: 8bf89ea38e26466797aa0c1eb8e9236b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747867850320
+status: 3
+tags: []
+user_id: Abdo

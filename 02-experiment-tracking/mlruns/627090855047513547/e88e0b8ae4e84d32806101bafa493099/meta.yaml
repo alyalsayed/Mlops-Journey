@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/627090855047513547/e88e0b8ae4e84d32806101bafa493099/artifacts
+end_time: 1747866248365
+entry_point_name: ''
+experiment_id: '627090855047513547'
+lifecycle_stage: active
+run_id: e88e0b8ae4e84d32806101bafa493099
+run_name: melodic-moth-587
+run_uuid: e88e0b8ae4e84d32806101bafa493099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747866247281
+status: 3
+tags: []
+user_id: Abdo
